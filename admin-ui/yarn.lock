@@ -352,10 +352,10 @@
   resolved "https://registry.npmjs.org/@clr/icons/-/icons-2.0.0-rc.2.tgz#9daf56b2ea6d094c5e81abe600c01c09d12ea047"
   integrity sha512-gKyw7dhg8I+GajLhATNddC7x6JVs+3rKDSkvdVqD1en4nPoe0Z0ckF542KGn5qmUdhyA30gvpup5R5cTcuRJzQ==
 
-"@clr/ui@^2.0.0-rc.2":
-  version "2.0.0-rc.2"
-  resolved "https://registry.npmjs.org/@clr/ui/-/ui-2.0.0-rc.2.tgz#3733ebbab65a1a39fdcb02ef07689884c078daba"
-  integrity sha512-1NndjjAjf1xXB9EuwUOPfPJ5ZEfg1U/VjVmotkUT60mhYyEIzkaSvWEptSXPOaKVfgbT1LlsU7g5cW/+PKwuGA==
+"@clr/ui@^2.4.11":
+  version "2.4.11"
+  resolved "https://registry.yarnpkg.com/@clr/ui/-/ui-2.4.11.tgz#6f14f8f80926ed53a7df9f862eac78a7bcc6b019"
+  integrity sha512-UmV88TYrKydNvKaTs3a/2U2c6PS05Vqp/4o5JSZBLVdfvrSrFTtRmnicYYd85XK/1B5vSlVjCQy90W5JDV6FoA==
 
 "@ng-select/ng-select@^2.20.0":
   version "2.20.0"
