@@ -347,10 +347,10 @@
   dependencies:
     tslib "^1.9.0"
 
-"@clr/icons@^2.0.0-rc.2":
-  version "2.0.0-rc.2"
-  resolved "https://registry.npmjs.org/@clr/icons/-/icons-2.0.0-rc.2.tgz#9daf56b2ea6d094c5e81abe600c01c09d12ea047"
-  integrity sha512-gKyw7dhg8I+GajLhATNddC7x6JVs+3rKDSkvdVqD1en4nPoe0Z0ckF542KGn5qmUdhyA30gvpup5R5cTcuRJzQ==
+"@clr/icons@^2.4.11":
+  version "2.4.11"
+  resolved "https://registry.yarnpkg.com/@clr/icons/-/icons-2.4.11.tgz#9a4898c41b8135d80e4b1133489a69abf28b302f"
+  integrity sha512-pbWdWkS7E6sCrDfgDTtAzv9JEo+f45ENJjdUY4YhgAJa3VzPiKEvAASURxnn3WX2KlabWNUUnfiqWnrRMPckyw==
 
 "@clr/ui@^2.0.0-rc.2":
   version "2.0.0-rc.2"
