@@ -340,10 +340,10 @@
     typescript "2.4.1"
     yargs "8.0.2"
 
-"@clr/angular@^2.0.0-rc.2":
-  version "2.0.0-rc.2"
-  resolved "https://registry.npmjs.org/@clr/angular/-/angular-2.0.0-rc.2.tgz#d2bbcf695fce61900a511bf407221e728bcb4ea2"
-  integrity sha512-VaHVwQ9h/1XKrryxS7XtCDCQ3UEEZkzZGU+N//B/SCmVwDon1tuaLGK4+Dv5Paw8BG3L6tSxyly2WVXUHEh3Uw==
+"@clr/angular@^2.4.11":
+  version "2.4.11"
+  resolved "https://registry.yarnpkg.com/@clr/angular/-/angular-2.4.11.tgz#c610b7767c976c34a17b1759bfc5ab2ff89af9cd"
+  integrity sha512-IVLmzRiYnPl3ctTsg8ptCoIJl8e5/MRV0CkcxuYHSG5zYbzWJs6RmIR+8YR8O1CHd5a4SN2fSUa/ufflQOuoEQ==
   dependencies:
     tslib "^1.9.0"
 
