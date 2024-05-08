@@ -41,7 +41,7 @@
     "ngx-pagination": "^4.0.0",
     "ngx-translate-messageformat-compiler": "^4.4.0",
     "rxjs": "^6.5.2",
-    "trix": "^1.1.1",
+    "trix": "^2.1.1",
     "tslib": "^1.9.0",
     "zone.js": "^0.9.1"
   },
