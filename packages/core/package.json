@@ -55,7 +55,7 @@
     "graphql-tag": "^2.10.0",
     "graphql-tools": "^4.0.3",
     "graphql-type-json": "^0.3.0",
-    "http-proxy-middleware": "^0.19.1",
+    "http-proxy-middleware": "^0.20.0",
     "i18next": "^17.0.2",
     "i18next-express-middleware": "^1.7.1",
     "i18next-icu": "^1.0.1",
