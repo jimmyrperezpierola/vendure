@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "dateformat": "^3.0.3",
-    "express": "^4.16.4",
+    "express": "^4.21.0",
     "fs-extra": "^8.0.1",
     "handlebars": "^4.1.2",
     "mjml": "^4.3.0",
