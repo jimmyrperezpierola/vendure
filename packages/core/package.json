@@ -32,7 +32,7 @@
     "dist/**/*"
   ],
   "dependencies": {
-    "@nestjs/common": "6.5.2",
+    "@nestjs/common": "11.0.16",
     "@nestjs/core": "6.5.2",
     "@nestjs/graphql": "6.4.1",
     "@nestjs/microservices": "6.5.2",
@@ -55,7 +55,7 @@
     "graphql-tag": "^2.10.0",
     "graphql-tools": "^4.0.3",
     "graphql-type-json": "^0.3.0",
-    "http-proxy-middleware": "^0.19.1",
+    "http-proxy-middleware": "^2.0.9",
     "i18next": "^17.0.2",
     "i18next-express-middleware": "^1.7.1",
     "i18next-icu": "^1.0.1",
