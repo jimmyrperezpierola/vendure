@@ -143,12 +143,12 @@
     universal-analytics "^0.4.20"
     uuid "^3.3.2"
 
-"@angular/common@^8.0.0":
-  version "8.0.0"
-  resolved "https://registry.npmjs.org/@angular/common/-/common-8.0.0.tgz#700aeda9be8af96692fce0ea6bf6157f7c874c0e"
-  integrity sha512-iOAJZ0+1zTRHnHE/5G30+4Q66W1pfZkSkxZIXvgijZ+wtuNloYdWNy/IdZ/m7ayBI7A6FsYEhyMUoWz2HVEJNw==
+"@angular/common@^19.2.16":
+  version "19.2.16"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-19.2.16.tgz#2ce9c21b7f2181e6d6ab85c346ad6280ef83e23b"
+  integrity sha512-sugztO7XIiLRoVjn0WJK9ooBm9zejsqlE5k4ZGvy1zFafM8LMjFHwD4KymN8JB3AOb7Ad4lJHVq1IvwWnpqeWw==
   dependencies:
-    tslib "^1.9.0"
+    tslib "^2.3.0"
 
 "@angular/compiler-cli@^8.0.0":
   version "8.0.0"
@@ -4253,13 +4253,6 @@ make-fetch-happen@^4.0.1:
     socks-proxy-agent "^4.0.0"
     ssri "^6.0.0"
 
-make-plural@^4.3.0:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/make-plural/-/make-plural-4.3.0.tgz#f23de08efdb0cac2e0c9ba9f315b0dff6b4c2735"
-  integrity sha512-xTYd4JVHpSCW+aqDof6w/MebaMVNTVYBZhbB/vi513xXdiPT92JMVCo0Jq8W2UZnzYRFeVbQiQ+I25l13JuKvA==
-  optionalDependencies:
-    minimist "^1.2.0"
-
 mamacro@^0.0.3:
   version "0.0.3"
   resolved "https://registry.npmjs.org/mamacro/-/mamacro-0.0.3.tgz#ad2c9576197c9f1abf308d0787865bd975a3f3e4"
@@ -4319,24 +4312,10 @@ merge-descriptors@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/merge-descriptors/-/merge-descriptors-1.0.1.tgz#b00aaa556dd8b44568150ec9d1b953f3f90cbb61"
 
-messageformat-formatters@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.npmjs.org/messageformat-formatters/-/messageformat-formatters-2.0.0.tgz#bf4e1c4f924c3e35e070617744a5bbe513303d60"
-  integrity sha512-0AhoocUMk5CFKvqTubLfR6xKcoYAnbVFEMzXe2oNetLG0zlEHLg+gq4NQ3bBMy6T2qaOJRLjF2ZBT4Wzeof02A==
-
-messageformat-parser@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.npmjs.org/messageformat-parser/-/messageformat-parser-4.1.1.tgz#665c70393f7b9b55a666ab27f6503ce0b5beeb1f"
-  integrity sha512-g5JfN4P58rrx0YVYo4S/tT23cYYm3NNeJLm2F2hhcFq1O1xieVGTssHa1QWMYeHCulTJ/1V7EMkOtItJa9LFUg==
-
-messageformat@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.npmjs.org/messageformat/-/messageformat-2.2.0.tgz#abcf03be6c2176d6be09aff7dd1f6a1f5daa5cf0"
-  integrity sha512-l7jdCq3e/fiF3ZLeXfKaqR263Bv5ShrZnQW6i1tBgPD3OXsXrjtCviosJ83lugECSOY8j0D0oFHxOSLe+p2uKw==
-  dependencies:
-    make-plural "^4.3.0"
-    messageformat-formatters "^2.0.0"
-    messageformat-parser "^4.1.1"
+messageformat@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/messageformat/-/messageformat-4.0.0.tgz#93e78d70a4e66cb67ff4c5ad42d3e6152c43f87a"
+  integrity sha512-XKmJ/ffTWToWOlHJzt85ZChQgVGC0LHzNWuNK8zuYpNySsB0nIEmytOdSAOW9ETKtkajAUJf520m5gFHHnrTYg==
 
 methods@~1.1.2:
   version "1.1.2"
@@ -6803,6 +6782,11 @@ ts-invariant@^0.4.0:
 tslib@^1.7.1, tslib@^1.8.0, tslib@^1.8.1, tslib@^1.9.0, tslib@^1.9.3:
   version "1.9.3"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.9.3.tgz#d7e4dd79245d85428c4d7e4822a79917954ca286"
+
+tslib@^2.3.0:
+  version "2.8.1"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.8.1.tgz#612efe4ed235d567e8aba5f2a5fab70280ade83f"
+  integrity sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w==
 
 tslint@^5.12.1:
   version "5.12.1"
